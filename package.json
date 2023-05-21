@@ -1,0 +1,12 @@
+{
+  "name": "babylon-js-doc-jp",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.76"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  }
+}
